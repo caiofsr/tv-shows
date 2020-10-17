@@ -26,6 +26,24 @@
         "Laila Robins",
         "Jordana Lajoie"
       ]
+    },
+    {
+      "title": "Agents of S.H.I.E.L.D.",
+      "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "runtime": 45,
+      "imdb-rating": 7.5,
+      "second-genre": "Adventure",
+      "debut-year": "2013",
+      "starring": [
+        "Clark Gregg",
+        "Ming-Na Wen",
+        "Chloe Bennet",
+        "Elizabeth Henstridge",
+        "Iain De Caestecker",
+        "Henry Simmons",
+        "Brett Dalton",
+        "Natalia Cordova-Buckley"
+      ]
     }
   ]
 }
