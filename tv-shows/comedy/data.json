@@ -1,0 +1,38 @@
+{
+  "comedy": [
+    {
+      "title": "How I Met Your Mother",
+      "description": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "runtime": 22,
+      "imdb-rating": 8.3,
+      "second-genre": "Romance",
+      "debut-year": "2005",
+      "starring": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Cobie Smulders",
+        "Neil Patrick Harris",
+        "Alyson Hannigan"
+      ]
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "description": "'Brooklyn Nine-Nine' follows the exploits of hilarious Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+      "runtime": 22,
+      "imdb-rating": 8.4,
+      "second-genre": "Crime",
+      "debut-year": "2013",
+      "starring": [
+        "Andy Samberg",
+        "Stephanie Beatriz",
+        "Terry Crews",
+        "Melissa Fumero",
+        "Joe Lo Truglio",
+        "Andre Braugher",
+        "Dirk Blocker",
+        "Joel McKinnon Miller",
+        "Chelsea Peretti"
+      ]
+    }
+  ]
+}

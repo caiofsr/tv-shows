@@ -1,0 +1,48 @@
+{
+  "sci-fi": [
+    {
+      "title": "The Expanse ",
+      "description": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter, and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+      "runtime": 60,
+      "imdb-rating": 8.5,
+      "second-genre": "Drama",
+      "debut-year": "2015",
+      "starring": [
+        "Steven Strait",
+        "Cas Anvar",
+        "Dominique Tipper",
+        "Wes Chatham",
+        "Shohreh Aghdashloo",
+        "Frankie Adams",
+        "Shawn Doyle",
+        "Cara Gee",
+        "Thomas Jane",
+        "Florence Faivre"
+      ]
+    },
+    {
+      "title": "Lost in Space",
+      "description": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+      "runtime": 60,
+      "imdb-rating": 7.3,
+      "second-genre": "Adventure",
+      "debut-year": "2018",
+      "starring": [
+        "Molly Parker",
+        "Toby Stephens",
+        "Maxwell Jenkins",
+        "Taylor Russell",
+        "Mina Sundwall",
+        "Ignacio Serricchio",
+        "Parker Posey",
+        "Brian Steele",
+        "Raza Jaffrey",
+        "Ajay Friese",
+        "Sibongile Mlambo",
+        "Amelia Burstyn",
+        "Zehra Fazal",
+        "Shaun Parkes"
+      ]
+    }
+  ]
+}
