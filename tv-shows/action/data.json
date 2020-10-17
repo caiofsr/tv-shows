@@ -1,0 +1,31 @@
+{
+  "action": [
+    {
+      "title": "The Boys",
+      "description": "A group of vigilantes sets out to take down corrupt superheroes who abuse their superpowers.",
+      "runtime": 60,
+      "imdb-rating": 8.7,
+      "second-genre": "Crime",
+      "debut-year": "2019",
+      "starring": [
+        "Karl Urban",
+        "Jack Quaid",
+        "Antony Starr",
+        "Erin Moriarty",
+        "Dominique McElligott",
+        "Jessie T. Usher",
+        "Laz Alonso",
+        "Chace Crawford",
+        "Tomer Capon",
+        "Karen Fukuhara",
+        "Nathan Mitchell",
+        "Colby Minifie",
+        "Elisabeth Shue",
+        "Shantel VanSanten",
+        "Aya Cash",
+        "Laila Robins",
+        "Jordana Lajoie"
+      ]
+    }
+  ]
+}
