@@ -33,6 +33,24 @@
         "Joel McKinnon Miller",
         "Chelsea Peretti"
       ]
+    },
+    {
+      "title": "Emily in Paris",
+      "description": "A young American woman from the Midwest is hired by a marketing firm in Paris to provide them with an American perspective on things.",
+      "runtime": 30,
+      "imdb-rating": 7.3,
+      "second-genre": "Romance",
+      "debut-year": "2020",
+      "starring": [
+        "Lily Collins",
+        "Philippine Leroy-Beaulieu",
+        "Ashley Park",
+        "Lucas Bravo",
+        "Samuel Arnold",
+        "Bruno Gouery",
+        "Camille Razat",
+        "William Abadie"
+      ]
     }
   ]
 }
