@@ -1,4 +1,4 @@
-# tv-shows
+# TV Shows
 A repo to storage some tv shows that aired on tv
 
 The basic structure of the json is an object that have a property named by the genre
