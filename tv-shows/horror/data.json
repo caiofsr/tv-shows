@@ -1,0 +1,24 @@
+{
+  "horror": [
+    {
+      "title": "The Haunting of Bly Manor ",
+      "description": "After an au pair’s tragic death, Henry hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose.",
+      "runtime": 60,
+      "imdb-rating": 7.6,
+      "second-genre": "Drama",
+      "debut-year": "2020",
+      "starring": [
+        "Victoria Pedretti",
+        "Oliver Jackson-Cohen",
+        "Amelia Eve",
+        "T'Nia Miller",
+        "Rahul Kohli",
+        "Tahirah Sherif",
+        "Amelie Bea Smith",
+        "Benjamin Evan Ainswarth",
+        "Henry Thomas",
+        "Carla Gugino"
+      ]
+    }
+  ]
+}
