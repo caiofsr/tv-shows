@@ -32,6 +32,19 @@
         "Jurnee Smollett",
         "Courtney B. Vance"
       ]
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+      "runtime": 60,
+      "imdb-rating": 8.7,
+      "second-genre": "Mystery",
+      "debut-year": "2018",
+      "starring": [
+        "Michiel Huisman",
+        "Carla Gugino",
+        "Henry Thomas"
+      ]
     }
   ]
 }
