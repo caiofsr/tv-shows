@@ -19,6 +19,19 @@
         "Henry Thomas",
         "Carla Gugino"
       ]
+    },
+    {
+      "title": "Lovecraft Country",
+      "description": "A young African-American travels across the U.S. in the 1950s in search of his missing father.",
+      "runtime": 60,
+      "imdb-rating": 7.2,
+      "second-genre": "Adventure",
+      "debut-year": "2018",
+      "starring": [
+        "Jonathan Majors",
+        "Jurnee Smollett",
+        "Courtney B. Vance"
+      ]
     }
   ]
 }
